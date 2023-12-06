@@ -1,0 +1,7 @@
+nodejs_socketIO_server/dist/
+nodejs_socketIO_server/node_modules/
+
+dotnet/SocketDemo/idea/
+dotnet/SocketDemo/vscode/
+dotnet/SocketDemo/bin/
+dotnet/SocketDemo/obj/
